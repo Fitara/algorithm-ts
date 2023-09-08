@@ -1,7 +1,4 @@
-# algorithm-ts
-Simple algorithm using Ts compiled into Js
-
-# ALGORITHM
+# Algorithm
 Work on this using a programming language you are comfortable with, create a separate folder for this task.
 
 1. There is a string "NEGIE1", please reverse the alphabet and keep the number at the end. Result = "EIGEN1".
