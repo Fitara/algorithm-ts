@@ -21,7 +21,8 @@ const INPUT = ['xc', 'dz', 'bbb', 'dz'];
 const QUERY = ['bbb', 'ac', 'dz'];
 
 countWords(INPUT, QUERY);
-Output : [1, 0, 2] because 'bbb' appears 1 time in INPUT, 'ac' does not appear in INPUT, and 'dz' appears 2 times in INPUT.
+Output : [1, 0, 2] because 'bbb' appears 1 time in INPUT, 
+'ac' does not appear in INPUT, and 'dz' appears 2 times in INPUT.
 ```
 
 4. Please find the result of subtracting the sum of the diagonals of an NxN matrix.
@@ -31,5 +32,6 @@ Example:
 const matrix = [[1, 2, 0], [4, 5, 6], [7, 8, 9]];
 
 diagonalDifference(matrix);
-Output : 3 because the sum of the first diagonal is 1 + 5 + 9 = 15, and the sum of the second diagonal is 0 + 5 + 7 = 12, so the difference is 15 - 12 = 3.
+Output : 3 because the sum of the first diagonal is 1 + 5 + 9 = 15, 
+and the sum of the second diagonal is 0 + 5 + 7 = 12, so the difference is 15 - 12 = 3.
 ```
